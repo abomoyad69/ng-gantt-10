@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.npmjs.com/settings/sameeriszoog/teams/team/ng-gantt-angular-10/users"
+    "url": "git+https://github.com/abomoyad69/ng-gantt-10.git"
   },
   "keywords": [
     "ng-gantt-10"
@@ -20,6 +20,10 @@
     "@angular/common": ">=8.0.0",
     "jsgantt-improved": "^2.5.5"
   },
+    "bugs": {
+    "url": "https://github.com/abomoyad69/ng-gantt-10/issues"
+  },
+  "homepage": "https://github.com/abomoyad69/ng-gantt-10#readme",
   "main": "bundles/ng-gantt.umd.js",
   "module": "fesm5/ng-gantt.js",
   "es2015": "fesm2015/ng-gantt.js",
