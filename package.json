@@ -1,6 +1,6 @@
 {
   "name": "ng-gantt-but-10",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Same as ng-gantt but with one line change. CTTO: Mario Mol <mariohmol@gmail.com>",
   "main": "index.js",
   "scripts": {
