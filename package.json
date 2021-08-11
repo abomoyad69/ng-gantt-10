@@ -1,8 +1,7 @@
 {
   "name": "ng-gantt-but-10",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Same as ng-gantt but with one line change. CTTO: Mario Mol <mariohmol@gmail.com>",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +10,8 @@
     "url": "git+https://github.com/abomoyad69/ng-gantt-10.git"
   },
   "keywords": [
-    "ng-gantt-10"
+    "ng-gantt-10",
+    "Yamkan"
   ],
   "author": "abomoyad",
   "license": "ISC",
@@ -24,15 +24,15 @@
     "url": "https://github.com/abomoyad69/ng-gantt-10/issues"
   },
   "homepage": "https://github.com/abomoyad69/ng-gantt-10#readme",
-  "main": "bundles/ng-gantt.umd.js",
-  "module": "fesm5/ng-gantt.js",
-  "es2015": "fesm2015/ng-gantt.js",
-  "esm5": "esm5/ng-gantt.js",
-  "esm2015": "esm2015/ng-gantt.js",
-  "fesm5": "fesm5/ng-gantt.js",
-  "fesm2015": "fesm2015/ng-gantt.js",
-  "typings": "ng-gantt.d.ts",
-  "metadata": "ng-gantt.metadata.json",
+  "main": "bundles/ng-gantt-but-10.umd.js",
+  "module": "fesm5/ng-gantt-but-10.js",
+  "es2015": "fesm2015/ng-gantt-but-10.js",
+  "esm5": "esm5/ng-gantt-but-10.js",
+  "esm2015": "esm2015/ng-gantt-but-10.js",
+  "fesm5": "fesm5/ng-gantt-but-10.js",
+  "fesm2015": "fesm2015/ng-gantt-but-10.js",
+  "typings": "ng-gantt-but-10.d.ts",
+  "metadata": "ng-gantt-but-10.metadata.json",
   "sideEffects": false,
   "dependencies": {
     "tslib": "^1.9.0"

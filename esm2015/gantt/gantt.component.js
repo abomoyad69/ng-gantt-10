@@ -77,7 +77,7 @@ tslib_1.__decorate([
 GanttEditorComponent = tslib_1.__decorate([
     Component({
         // tslint:disable-next-line:component-selector
-        selector: 'ng-gantt',
+        selector: 'ng-gantt-but-10',
         template: '<div [id]="id" #ganttEditorContainer></div>'
     }),
     tslib_1.__metadata("design:paramtypes", [])

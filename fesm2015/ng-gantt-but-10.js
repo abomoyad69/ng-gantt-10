@@ -89,7 +89,7 @@ __decorate([
 GanttEditorComponent = __decorate([
     Component({
         // tslint:disable-next-line:component-selector
-        selector: 'ng-gantt',
+        selector: 'ng-gantt-but-10',
         template: '<div [id]="id" #ganttEditorContainer></div>'
     }),
     __metadata("design:paramtypes", [])
@@ -119,4 +119,4 @@ NgGanttEditorModule = NgGanttEditorModule_1 = __decorate([
 ], NgGanttEditorModule);
 
 export { GanttEditorComponent, GanttEditorOptions, NgGanttEditorModule };
-//# sourceMappingURL=ng-gantt.js.map
+//# sourceMappingURL=ng-gantt-but-10.js.map

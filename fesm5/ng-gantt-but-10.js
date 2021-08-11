@@ -93,7 +93,7 @@ var GanttEditorComponent = /** @class */ (function () {
     GanttEditorComponent = __decorate([
         Component({
             // tslint:disable-next-line:component-selector
-            selector: 'ng-gantt',
+            selector: 'ng-gantt-but-10',
             template: '<div [id]="id" #ganttEditorContainer></div>'
         }),
         __metadata("design:paramtypes", [])
@@ -129,4 +129,4 @@ var NgGanttEditorModule = /** @class */ (function () {
 }());
 
 export { GanttEditorComponent, GanttEditorOptions, NgGanttEditorModule };
-//# sourceMappingURL=ng-gantt.js.map
+//# sourceMappingURL=ng-gantt-but-10.js.map

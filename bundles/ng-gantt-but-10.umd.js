@@ -1,7 +1,7 @@
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common'), require('jsgantt-improved')) :
-    typeof define === 'function' && define.amd ? define('ng-gantt', ['exports', '@angular/core', '@angular/common', 'jsgantt-improved'], factory) :
-    (global = global || self, factory(global['ng-gantt'] = {}, global.ng.core, global.ng.common, global.jsganttImproved));
+    typeof define === 'function' && define.amd ? define('ng-gantt-but-10', ['exports', '@angular/core', '@angular/common', 'jsgantt-improved'], factory) :
+    (global = global || self, factory(global['ng-gantt-but-10'] = {}, global.ng.core, global.ng.common, global.jsganttImproved));
 }(this, (function (exports, core, common, jsganttImproved) { 'use strict';
 
     /*! *****************************************************************************
@@ -131,7 +131,7 @@
         GanttEditorComponent = __decorate([
             core.Component({
                 // tslint:disable-next-line:component-selector
-                selector: 'ng-gantt',
+                selector: 'ng-gantt-but-10',
                 template: '<div [id]="id" #ganttEditorContainer></div>'
             }),
             __metadata("design:paramtypes", [])
@@ -173,4 +173,4 @@
     Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
-//# sourceMappingURL=ng-gantt.umd.js.map
+//# sourceMappingURL=ng-gantt-but-10.umd.js.map
